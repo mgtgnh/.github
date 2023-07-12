@@ -1,4 +1,4 @@
-## Hi there 👋
+## The GitHub organization behind Revanista
 
 <!--
 
